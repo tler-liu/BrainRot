@@ -1,3 +1,4 @@
 # BrainRot
 
-Implementing various ML architectures from scratch to generate GenZ slang. My space to tinker with machine learning algorithms. 
+The work in this repo is inspired by Andrej Karpathy's videos on YouTube.
+BrainRot implements various ML models with minimal library assistance to generate Gen Z slang. It is my space to rebuild popular machine learning algorithms. 
